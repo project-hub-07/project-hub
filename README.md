@@ -54,8 +54,7 @@ This dashboard analyzes product-level and outlet-level data across multiple dime
 
 ## 📬 Contact
 ### Shruti Gurav 
-🎓 Aspiring Data Analyst | Power BI Enthusiast     
-
+🎓 Aspiring Data Analyst | Power BI Enthusiast       
 📧 Email: shrutigurav85@gmail.com  
 🔗[LinkedIn](www.linkedin.com/in/shruti-gurav-b6a84527a) 
 
