@@ -1,5 +1,5 @@
 
-# 📦 Blinkit Sales Dashboard – Power BI Project
+# 📦 Blinkit Sales Dashboard 
 
  **Power BI dashboard project** for **Blinkit**, an on-demand delivery service, with the aim of providing actionable business insights into **sales performance, item distribution, outlet behavior**, and **customer ratings**.
 
