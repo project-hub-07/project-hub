@@ -33,7 +33,7 @@ This dashboard analyzes product-level and outlet-level data across multiple dime
 ## 🔍 Features
 
 - **Dynamic filters** for outlet type, size, and item type.
--  Drill-downs by:
+- Drill-downs by:
   - Outlet location (Tier 1/2/3)
   - Outlet size (Small, Medium, High)
   - Fat content (Low/Regular)
